@@ -19,3 +19,8 @@ To use the SFTP Wrapper Class, you'll need to have Python 3.6 or higher and inst
 ```bash
 pip install pysftp
 ```
+
+Drop the sftp.py file into your project and enjoy!
+
+## Example
+I added an example of how I'm using this to move files on a cron job to move files between two SFTP vendors.
